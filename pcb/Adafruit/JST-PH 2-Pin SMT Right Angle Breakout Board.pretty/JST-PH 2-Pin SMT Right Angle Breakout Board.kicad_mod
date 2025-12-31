@@ -1,0 +1,113 @@
+(footprint "JST-PH 2-Pin SMT Right Angle Breakout Board"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "0bcb676e-4866-4bf2-b98c-bbbbe55a41a2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "JST-PH 2-Pin SMT Right Angle Breakout Board"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "fbd4a5f3-ec0b-408d-a75a-a025d825abf0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "77efb008-1746-4965-8c70-c0970726c4cb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ac740c5b-1526-4178-9d4b-243940ce9648")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -5.8 3.95)
+		(end 7.2 13.95)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "7d4d60d0-f10a-4e88-9853-ca3f637b67f9")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c5c01592-90ad-49a5-826f-357ae6a3c71b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 6.09 12.84)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "64c737a3-7520-48e6-bd4f-b141b6d6edab")
+	)
+	(pad "2" thru_hole circle
+		(at 6.09 10.3)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ef5fe7a6-d94b-4957-8f52-1c0bb4594c20")
+	)
+	(pad "3" thru_hole circle
+		(at 6.09 7.76)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "26ad49b0-03d7-49b1-a49d-c21fe1d3f8de")
+	)
+	(pad "4" thru_hole circle
+		(at 6.09 5.22)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0f079b16-1b01-41f5-9819-7d53a090cccd")
+	)
+	(embedded_fonts no)
+)

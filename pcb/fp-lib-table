@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Seeed Studio XIAO ESP32-S3")(type "KiCad")(uri "${KIPRJMOD}/Seeed Studio XIAO ESP32-S3")(options "")(descr ""))
+  (lib (name "JST-PH 2-Pin SMT Right Angle Breakout Board")(type "KiCad")(uri "${KIPRJMOD}/Adafruit/JST-PH 2-Pin SMT Right Angle Breakout Board.pretty")(options "")(descr ""))
+  (lib (name "0.91OLED")(type "KiCad")(uri "C:/Users/jyapt/OneDrive/Documents/KiCad/Projects/Hackpad/0.91inOLED")(options "")(descr ""))
+)

@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Seeed Studio XIAO ESP32-S3")(type "KiCad")(uri "${KIPRJMOD}/Seeed Studio XIAO ESP32-S3/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
+  (lib (name "Adafruit")(type "KiCad")(uri "${KIPRJMOD}/Adafruit/Adafruit.kicad_sym")(options "")(descr ""))
+  (lib (name "0.91OLED")(type "KiCad")(uri "${KIPRJMOD}/0.91OLED/0.91OLED.kicad_sym")(options "")(descr ""))
+)
